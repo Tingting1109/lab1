@@ -1,0 +1,14 @@
+<！DOCTYPE html>
+<html lang="en">
+<head>
+   <metra charset="UTF-8">
+   <title>ITMD361 Fundanmentals of Web Development</title>
+</head>
+<body>
+   <h1>Something about myself</h1> 
+   <p>Hello world. This is my first website</p>
+   <p>My name is Tingting Hu, I'm a graduate student major in ITM, and I come from China. My undergraduate major is measurement and control Technology and instrument.
+   <p>I think IT is a very interesting and helpful major for social development.
+   <p>I am very happy to learn this course and I hope to make friends with you.
+</body>
+</html>
